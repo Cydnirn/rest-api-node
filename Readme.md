@@ -8,7 +8,7 @@ Run ```npm run dev```
 
 # Production
 
-Run ```npm run build``
+Run ```npm run build```
 
 Then run ```npm start```
 
